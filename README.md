@@ -4,50 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Message App README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #1a73e8;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: "Courier New", Courier, monospace;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 4px;
-        }
-        blockquote {
-            border-left: 4px solid #ddd;
-            padding: 10px;
-            background-color: #f9f9f9;
-            margin: 20px 0;
-            font-style: italic;
-        }
-        a {
-            color: #1a73e8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    
 </head>
 <body>
 
