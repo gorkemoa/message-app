@@ -139,7 +139,7 @@
 
 <h2>📧 İletişim</h2>
 
-<p>Sorularınız veya önerileriniz için <a href="mailto:email@example.com">email@example.com</a> adresinden benimle iletişime geçebilirsiniz.</p>
+<p>Sorularınız veya önerileriniz için <a href="mailto:gorkemoa35@gmail.com">email@example.com</a> adresinden benimle iletişime geçebilirsiniz.</p>
 
 <hr>
 
